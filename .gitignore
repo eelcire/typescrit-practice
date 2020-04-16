@@ -1,2 +1,14 @@
 /maps/node_modules
 /maps/.cache
+
+/sort/node_modules
+
+/stats/node_modules
+
+/web/.cache
+/web/node_modules
+
+/server/node_modules
+
+/.vscode
+/.DS_Store
